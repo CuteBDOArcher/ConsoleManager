@@ -1,0 +1,14 @@
+C:\Users\P\Desktop\filemanager-master\Filemanager\Filemanager\bin\Debug\netcoreapp3.1\Filemanager.exe
+C:\Users\P\Desktop\filemanager-master\Filemanager\Filemanager\bin\Debug\netcoreapp3.1\Filemanager.deps.json
+C:\Users\P\Desktop\filemanager-master\Filemanager\Filemanager\bin\Debug\netcoreapp3.1\Filemanager.runtimeconfig.json
+C:\Users\P\Desktop\filemanager-master\Filemanager\Filemanager\bin\Debug\netcoreapp3.1\Filemanager.runtimeconfig.dev.json
+C:\Users\P\Desktop\filemanager-master\Filemanager\Filemanager\bin\Debug\netcoreapp3.1\Filemanager.dll
+C:\Users\P\Desktop\filemanager-master\Filemanager\Filemanager\bin\Debug\netcoreapp3.1\Filemanager.pdb
+C:\Users\P\Desktop\filemanager-master\Filemanager\Filemanager\obj\Debug\netcoreapp3.1\Filemanager.csproj.AssemblyReference.cache
+C:\Users\P\Desktop\filemanager-master\Filemanager\Filemanager\obj\Debug\netcoreapp3.1\Filemanager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P\Desktop\filemanager-master\Filemanager\Filemanager\obj\Debug\netcoreapp3.1\Filemanager.AssemblyInfoInputs.cache
+C:\Users\P\Desktop\filemanager-master\Filemanager\Filemanager\obj\Debug\netcoreapp3.1\Filemanager.AssemblyInfo.cs
+C:\Users\P\Desktop\filemanager-master\Filemanager\Filemanager\obj\Debug\netcoreapp3.1\Filemanager.csproj.CoreCompileInputs.cache
+C:\Users\P\Desktop\filemanager-master\Filemanager\Filemanager\obj\Debug\netcoreapp3.1\Filemanager.dll
+C:\Users\P\Desktop\filemanager-master\Filemanager\Filemanager\obj\Debug\netcoreapp3.1\Filemanager.pdb
+C:\Users\P\Desktop\filemanager-master\Filemanager\Filemanager\obj\Debug\netcoreapp3.1\Filemanager.genruntimeconfig.cache
